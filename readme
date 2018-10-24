@@ -6,10 +6,10 @@ You can test the application with the help of Postman tool in Chrome browser.
 
 You should have a basic knowledge on these technologies to understand about this project.
 
-TechStack:
+**TechStack:**
 Java 7 and above
 Hibernate: 4.x
 Spring: 4.x
-REST: Jackson 2.5.3
+REST: Jackson 2.5.9
 
 Note: You sould have basic knowledge of using postman tool to test this application.
