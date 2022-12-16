@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<springframework.version>4.2.0.RELEASE</springframework.version>
+		<springframework.version>5.2.20.RELEASE</springframework.version>
 		<jackson.version>2.9.9</jackson.version>
 		<hibernate.version>4.3.6.Final</hibernate.version>
 	</properties>
